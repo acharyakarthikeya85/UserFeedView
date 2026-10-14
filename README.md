@@ -45,7 +45,7 @@ UserFeedView/
 
 ## App screens
 
-<img width="200" height="600" alt="List" src="https://github.com/user-attachments/assets/943f3a88-6201-4f79-a8f2-0f79a645f9dd" />
+<img width="300" height="600" alt="List" src="https://github.com/user-attachments/assets/943f3a88-6201-4f79-a8f2-0f79a645f9dd" />
 
 
 
