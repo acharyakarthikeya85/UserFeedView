@@ -19,7 +19,6 @@
 		1D8238F1307E81A200277F31 /* PostDetailContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8238F0307E81A200277F31 /* PostDetailContentView.swift */; };
 		1D8238F3307E81B400277F31 /* PostDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8238F2307E81B400277F31 /* PostDetailViewModel.swift */; };
 		1D8238F5307E837100277F31 /* AppErrorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8238F4307E837100277F31 /* AppErrorView.swift */; };
-		1D8238FD307F67F800277F31 /* UserFeedViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D8238FC307F67F800277F31 /* UserFeedViewTests.swift */; };
 		1D823904307F68F400277F31 /* PostDetailViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D823903307F68F400277F31 /* PostDetailViewModelTests.swift */; };
 		1D823906307F690700277F31 /* PostListViewModelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D823905307F690700277F31 /* PostListViewModelTests.swift */; };
 		1D823909307FBBDF00277F31 /* JailbreakCheckService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D823908307FBBDF00277F31 /* JailbreakCheckService.swift */; };
@@ -50,7 +49,6 @@
 		1D8238F2307E81B400277F31 /* PostDetailViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewModel.swift; sourceTree = "<group>"; };
 		1D8238F4307E837100277F31 /* AppErrorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppErrorView.swift; sourceTree = "<group>"; };
 		1D8238FA307F67F800277F31 /* UserFeedViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = UserFeedViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		1D8238FC307F67F800277F31 /* UserFeedViewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserFeedViewTests.swift; sourceTree = "<group>"; };
 		1D823903307F68F400277F31 /* PostDetailViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostDetailViewModelTests.swift; sourceTree = "<group>"; };
 		1D823905307F690700277F31 /* PostListViewModelTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostListViewModelTests.swift; sourceTree = "<group>"; };
 		1D823908307FBBDF00277F31 /* JailbreakCheckService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JailbreakCheckService.swift; sourceTree = "<group>"; };
@@ -163,7 +161,6 @@
 		1D8238FB307F67F800277F31 /* UserFeedViewTests */ = {
 			isa = PBXGroup;
 			children = (
-				1D8238FC307F67F800277F31 /* UserFeedViewTests.swift */,
 				1D823903307F68F400277F31 /* PostDetailViewModelTests.swift */,
 				1D823905307F690700277F31 /* PostListViewModelTests.swift */,
 			);
@@ -310,7 +307,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1D8238FD307F67F800277F31 /* UserFeedViewTests.swift in Sources */,
 				1D823906307F690700277F31 /* PostListViewModelTests.swift in Sources */,
 				1D823904307F68F400277F31 /* PostDetailViewModelTests.swift in Sources */,
 			);
