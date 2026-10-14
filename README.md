@@ -49,7 +49,7 @@ UserFeedView/
 
 
 
-<img width="200" height="600" alt="Detail" src="https://github.com/user-attachments/assets/18def374-a8d3-4e95-aa06-02876bb5d87b" />
+<img width="300" height="600" alt="Detail" src="https://github.com/user-attachments/assets/18def374-a8d3-4e95-aa06-02876bb5d87b" />
 
 
 
