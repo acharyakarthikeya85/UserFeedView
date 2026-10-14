@@ -1,0 +1,18 @@
+
+# Folders or files to completely bypass during inspection
+excluded:
+  - Pods
+  - DerivedData
+  - UserFeedViewTests # Bypasses your newly added testing target folder
+
+# Rules that should issue a warning rather than a strict build break
+warning_threshold: 30
+
+# Specific rule overrides for a clean SwiftUI/MVVM project
+disabled_rules:
+  - trailing_whitespace
+  - line_length
+
+opt_in_rules:
+  - empty_count
+  - contains_over_first_not_nil
