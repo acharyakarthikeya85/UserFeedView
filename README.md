@@ -45,10 +45,10 @@ UserFeedView/
 
 ## App screens
 
-<img width="1179" height="2096" alt="List" src="https://github.com/user-attachments/assets/943f3a88-6201-4f79-a8f2-0f79a645f9dd" />
+<img width="800" height="1200" alt="List" src="https://github.com/user-attachments/assets/943f3a88-6201-4f79-a8f2-0f79a645f9dd" />
 
 
-<img width="1179" height="2096" alt="Detail" src="https://github.com/user-attachments/assets/18def374-a8d3-4e95-aa06-02876bb5d87b" />
+<img width="800" height="1200" alt="Detail" src="https://github.com/user-attachments/assets/18def374-a8d3-4e95-aa06-02876bb5d87b" />
 
 
 
